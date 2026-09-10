@@ -1,0 +1,6 @@
+Items below need a human decision before/after Airtable import:
+
+Row 4: skipped exact duplicate of an earlier row (order 1001, SKU-100)
+Row 6: no email on file for 'John Smith' (order 1003) - matched by name only, verify this isn't a different person with the same name
+Row 8: missing Qty on order 1005 (SKU-100) - defaulted to 1, NEEDS MANUAL VERIFICATION
+Row 10: missing customer name on order 1007 - using email as placeholder name, NEEDS MANUAL VERIFICATION

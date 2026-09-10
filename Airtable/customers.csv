@@ -1,0 +1,7 @@
+customer_key,name,email,company
+email:john.smith@acme.com,John Smith,john.smith@acme.com,
+email:jane.doe@acme.com,jane doe,jane.doe@acme.com,
+name:john smith,John Smith,,
+email:mary.j@acmecorp.com,Mary Johnson,mary.j@acmecorp.com,Acme Corp
+email:bob@example.com,Bob Lee,bob@example.com,
+email:unknown@nowhere.com,unknown@nowhere.com,unknown@nowhere.com,

@@ -1,0 +1,10 @@
+order_id,customer_key,sku,qty,order_date,status,line_total
+1001,email:john.smith@acme.com,SKU-100,3,2024-01-05,Shipped,37.5
+1001,email:john.smith@acme.com,SKU-101,1,2024-01-05,Shipped,45.0
+1002,email:jane.doe@acme.com,SKU-101,1,2024-01-06,Shipped,45.0
+1003,name:john smith,SKU-100,5,2024-01-08,Pending,62.5
+1004,email:mary.j@acmecorp.com,SKU-102,2,2024-01-09,Pending,199.98
+1005,email:bob@example.com,SKU-100,1,2024-01-10,Cancelled,12.5
+1006,email:jane.doe@acme.com,SKU-103,10,2024-01-12,Shipped,87.5
+1007,email:unknown@nowhere.com,SKU-101,2,2024-01-13,Pending,90.0
+1008,email:john.smith@acme.com,SKU-102,1,2024-01-15,Shipped,99.99
